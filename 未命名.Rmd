@@ -77,7 +77,6 @@ git --version
 
 If you have any trouble with any of the steps above, try to first post on the discussion board on CoursePlus. The TAs and I will be checking it frequently, but other students may also be helpful in their replies. You can also use other resources to get help (Google, R4DS, colleagues/friends/relatives with R/Markdown experience, etc.). Still, try to do as much as possible yourself. We will use all the bits you are learning here repeatedly during this course.
 
-Send an email
 Answer:
 1. Yanting Hu; 7FF15D
 2. Mac
