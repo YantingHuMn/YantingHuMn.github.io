@@ -1,0 +1,24 @@
+---
+title: "Yanting Hu"
+image: "Yanting.jpg"
+output:
+  postcards::trestles
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Bio
+
+My name is Yanting Hu, a current Biostatistics student in JHU Bloomberg School of Public Health.
+
+# Education
+
+University of Washington | Seattle, WA
+B.S. in Statistics: Data Science
+
+# Interests
+
+- Piano
+- Drawing
+- Watching Movies
